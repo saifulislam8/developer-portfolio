@@ -80,3 +80,16 @@ p{
 .first-ex{
     padding-left: 80px;
 }
+.tomato-border{
+    border-left: 7px solid tomato;
+}
+.blue-border{
+    border-left: 7px solid blue;
+}
+.footer{
+    text-align: center;
+}
+.ex{
+    color:seagreen;
+    text-align: center;
+}
