@@ -8,6 +8,7 @@ section{
     display: flex;
 }
 
+
 h1{
     font-size: 50px;
     font-weight: bold;
@@ -37,4 +38,8 @@ h1{
 }
 p{
     color: dimgray;
+}
+.banner{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
 }
